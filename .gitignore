@@ -1,0 +1,16 @@
+# Node
+node_modules/
+.env
+
+# Python
+__pycache__/
+.venv/
+backend/venv/
+*.pyc
+
+# Docker
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
